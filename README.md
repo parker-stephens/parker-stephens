@@ -2,4 +2,4 @@
 
 ### [Links](https://links.parkercs.tech)
 
-<img height="180em" src="https://parkercs-github-readme-stats.vercel.app/api?username=parker-stephens&show_icons=true&hide_border=true&&count_private=true" />
+<img src="https://ghstats.dev/api/card?username=parker-stephens&show_ring=false&hide=grade%2Cactive_day%2Cavg%2Ctrend%2Cstreak%2Cweek%2Chours" alt="GitHub Stats Card" />
